@@ -1,6 +1,11 @@
 ---
 name: llm-batch-processor-cn
 description: 批量处理 CSV 或 JSONL 表格中的文本，使用字段模板调用 OpenAI 兼容模型，并提供预检、限速、重试、断点续跑和逐行错误记录。适用于批量分类、摘要、改写、标签和信息提取；少量交互式问答或不涉及表格时不触发。
+slug: llm-batch-processor-cn
+displayName: 表格批量 AI 处理器
+version: 1.0.1
+summary: 批量处理 CSV 和 JSONL，支持预检、限速、重试与断点续跑
+license: MIT
 ---
 
 # 表格批量 AI 处理器

@@ -1,4 +1,4 @@
-# llm-batch-processor-cn
+# 表格批量 AI 处理器
 
 面向 Codex/SkillHub 的表格批量 AI 处理技能。支持 CSV、JSONL、模板预检、限速、有限重试、逐行落盘和断点续跑。
 
